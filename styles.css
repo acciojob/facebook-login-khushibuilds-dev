@@ -13,6 +13,7 @@ body{
 	display: inline-block;
 }
 
+
 form{
 	display: flex;
 	width: 300px;
@@ -34,7 +35,7 @@ button{
 	background-color: #1877f2;
 	border-radius: 5px;
 	padding: 10px 20px;
-	
+	width: 100%;
 }
 a{
 	text-decoration: none;
